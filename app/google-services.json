@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437524803143",
+    "firebase_url": "https://cecame-42fc9-default-rtdb.firebaseio.com",
+    "project_id": "cecame-42fc9",
+    "storage_bucket": "cecame-42fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437524803143:android:eb6237fb2aafdac7200b62",
+        "android_client_info": {
+          "package_name": "com.example.augustnavigationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437524803143-ua9oai4fdkr6g2f21uvqujmkr8c7t8ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALC-KYX1sBFxrhdFxIhzMYtUSHC5gpToM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437524803143-ua9oai4fdkr6g2f21uvqujmkr8c7t8ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
